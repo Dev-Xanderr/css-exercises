@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.para{
+    background-color: rgb(250, 128, 114);
+    font-family: Verdana, "DejaVuSans",sans-serif;
+}
+
+.parac{
+    font-size: 24px;
+}
+
+
+#fdiv{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#sdiv{
+    background-color: rgb(0, 255, 0);
+    font-weight: bold;
+}
